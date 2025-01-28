@@ -102,7 +102,7 @@ nav ul li a:hover {
 .products {
     display: flex;
     justify-content: center;
-    gap: 40px; /* More space between products */
+    gap: 40px;
     flex-wrap: wrap;
 }
 
@@ -111,11 +111,11 @@ nav ul li a:hover {
     padding: 20px;
     border-radius: 8px;
     box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.1);
-    width: 280px; /* Larger product boxes */
+    width: 280px;
 }
 
 .product img {
-    width: 200px; /* Bigger images */
+    width: 200px;
     border-radius: 8px;
 }
 
